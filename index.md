@@ -6,4 +6,6 @@ Now that you're back, we can start talking about modding, programming knowledge 
 
 We'll start by going over the concept of a game loop, then we'll describe [On Actions], followed by [Effects] and [Triggers]. Next we'll go over [Scripted Types and Content] and then[Scopes] and [Targets]. Finally we'll touch on [Localization] and [GUI]. 
 
+All throughout this, we will be working on a fun little system that allows us to send our IG leaders on Diplomatic Missions to foreign countries.
+
 [Let's Get Started](gameloop.md)

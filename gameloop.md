@@ -6,6 +6,4 @@ First, what is a 'tick'? Well a 'tick' is a unit of time where the game runs cod
 
 Now, what exactly is being run on those ticks? Well, a lot of it is code related to the game's simulation, which we do not have access to. This may interact with our code, particularly [Scripted Types and Content]. There is also another important thing that is being run here, and that is [On Actions].
 
-All throughout this, we will be working on a fun little system that allows us to send our IGs on Diplomatic Missions to foreign countries.
-
 [Onto On Actions](onactions.md)
