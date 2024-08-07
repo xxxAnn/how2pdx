@@ -7,4 +7,5 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - index.md
+  - gettingstarted.md
+  - gameloop.md
