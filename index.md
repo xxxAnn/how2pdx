@@ -8,4 +8,4 @@ We'll start by going over the concept of a game loop, then we'll describe [On Ac
 
 All throughout this, we will be working on a fun little system that allows us to send our IG leaders on Diplomatic Missions to foreign countries.
 
-<p float="right">[Let's Get Started>>](gameloop.md)</p>
+[Let's Get Started>>](gameloop.md)
