@@ -7,4 +7,4 @@ First, what is a 'tick'? Well a 'tick' is a unit of time where the game runs cod
 Now, what exactly is being run on those ticks? Well, a lot of it is code related to the game's simulation, which we do not have access to. This may interact with our code, particularly [Scripted Types and Content]. There is also another important thing that is being run here, and that is [On Actions].
 
 
-[<<Back](index.md) <p align="right">[Onto On Actions>>](onactions.md)</p>
+<p style="float:left">[<<Back](index.md)</p> <p style="float:right">[Onto On Actions>>](onactions.md)</p>
